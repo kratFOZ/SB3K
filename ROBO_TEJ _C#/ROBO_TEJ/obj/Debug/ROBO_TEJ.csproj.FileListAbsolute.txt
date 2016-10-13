@@ -1,0 +1,30 @@
+E:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\bin\Debug\ROBO_TEJ.exe.config
+E:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\bin\Debug\ROBO_TEJ.exe
+E:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\bin\Debug\ROBO_TEJ.pdb
+E:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.csprojResolveAssemblyReference.cache
+E:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.Properties.Resources.resources
+E:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.csproj.GenerateResource.Cache
+E:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.exe
+E:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.pdb
+F:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\bin\Debug\ROBO_TEJ.exe.config
+F:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.exe
+F:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.pdb
+F:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\bin\Debug\ROBO_TEJ.exe
+F:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\bin\Debug\ROBO_TEJ.pdb
+F:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.csprojResolveAssemblyReference.cache
+F:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.Properties.Resources.resources
+F:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.csproj.GenerateResource.Cache
+F:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.frmMain.resources
+E:\1.TEJ\ROBO\ROBO_TEJ\ROBO_TEJ\obj\Debug\ROBO_TEJ.frmMain.resources
+E:\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\bin\Debug\ROBO_TEJ.exe.config
+E:\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\obj\Debug\ROBO_TEJ.exe
+E:\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\obj\Debug\ROBO_TEJ.pdb
+E:\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\bin\Debug\ROBO_TEJ.exe
+E:\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\bin\Debug\ROBO_TEJ.pdb
+E:\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\obj\Debug\ROBO_TEJ.csprojResolveAssemblyReference.cache
+E:\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\obj\Debug\ROBO_TEJ.frmMain.resources
+E:\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\obj\Debug\ROBO_TEJ.Properties.Resources.resources
+E:\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\obj\Debug\ROBO_TEJ.csproj.GenerateResource.Cache
+G:\Archive\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\bin\Debug\ROBO_TEJ.exe.config
+G:\Archive\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\obj\Debug\ROBO_TEJ.exe
+G:\Archive\1.TEJ\ROBO\ROBO_TEJ - Copy\ROBO_TEJ\obj\Debug\ROBO_TEJ.pdb
